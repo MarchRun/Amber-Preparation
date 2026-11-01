@@ -1,0 +1,175 @@
+--- PAGE 1 ---
+[ 2026 ]
+PORTFOLIOPORTFOLIO
+Marchel Karuna Kwee, S.Kom.
+Full-Stack Developer | Software Engineer | Informatics Engineering
+
+--- PAGE 2 ---
+// About Me
+A fresh graduate with a Bachelor’s Degree in Informatics Engineering from Institut
+Teknologi Sumatera, with a strong interest in Software Engineering, particularly Web
+Development. I have developed several software systems for digital projects by
+applying appropriate development approaches and technologies. I possess strong
+adaptability and collaboration, enabling me to work professionally within a team and
+solve various problems across different projects. I am eager to continuously learn new
+technologies and grow professionally while contributing to project and business
+objectives.
+// Technologies & Tools
+// Education
+2022 - 2026
+Institut Teknologi Sumatera
+Bachelor of Informatics Engineering
+Focused academic studies on Software Engineering
+and Information Systems.
+Applied IT solutions to support the requirements of
+village-based MSMEs and organizations.
+Contributed to the development of web applications
+and games as part of team projects.
+--- PAGE 3 ---
+// Work Experiences
+Backend Developer Intern
+Jun 25 - Jul 25
+// Organizational Experiences
+Staff of Social Media
+Division
+02 (Aug 23 - Aug 25)
+Staff of Social Media
+Division
+03 (Feb 24 - Feb 25)
+Head of Communication
+Media Division
+04 (Feb 25 - Feb 26)
+Secretary General
+Collaborated in a four-member internship development team as Backend Developer, working
+alongside a Project Manager, System Analyst, and Frontend Developer.
+Coordinated with team members and cross-department stakeholders throughout the
+development process, strengthening collaboration in a professional work environment.
+Developed and maintained backend features by implementing business logic aligned with system
+requirements and institutional workflows.
+Gained hands-on experience following institutional standards, development protocols, and
+professional software development practices.
+Persaudaraan Pemuda Buddhis
+Bodhisattva (PPBB)
+Persaudaraan Pemuda Buddhis
+Bodhisattva (PPBB)
+Keluarga Mahasiswa Buddhis
+Dhirasena Itera
+Keluarga Mahasiswa Buddhis
+Dhirasena Itera
+01 (Aug 21 - Aug 23)
+Kementerian PPN / Bappenas RI
+--- PAGE 4 ---
+PROJECT 01
+// Role
+Game Programmer
+// Responsibilities
+// Technology Stack
+Python
+Nitro Itera Racing
+Applied Object-Oriented Programming (OOP) concepts in the game development
+process.
+Developed game logic and responsive control systems using the Pygame library.
+Integrated multimedia assets and packaged the game into a standalone executable
+application.
+--- PAGE 5 ---
+PROJECT 02
+// Role
+UI/UX Designer & Frontend Developer
+// Responsibilities
+// Technology Stack
+Lebung Farm
+Designed high-fidelity mockups and content placement for a village MSME website.
+Implemented the designs into frontend code for the website’s public pages.
+Figma
+JavaScript
+ Bootstrap
+--- PAGE 6 ---
+PROJECT 03
+// Role
+Game Artist
+// Responsibilities
+// Technology Stack
+Aseprite
+Legenda Tiga Raja
+Designed 2D pixel art assets inspired by Sumatran culture, including character, items,
+skills, maps, and UI elements.
+Created frame-by-frame animations using variations of the designed character assets.
+Godot Engine
+--- PAGE 7 ---
+PROJECT 04
+// Role
+Backend Developer
+// Responsibilities
+// Technology Stack
+Simonika
+Implemented system functionality based on departmental requirements and SOPs.
+Integrated backend workflows connecting the frontend with database operations to
+support system functionality.
+Managed organizational data to support system functionality.
+PHP
+ MySQL
+ CodeIgniter
+ Jira
+ GitLab
+--- PAGE 8 ---
+PROJECT 05
+// Role
+Project Manager
+// Responsibilities
+// Technology Stack
+Kibang Soil Tracker
+Led the development team in planning and developing a web-based soil monitoring
+system integrated with IoT sensors.
+Prepared project documentation, including specifications, budget, risks, and testing.
+Contributed to frontend development, database integration, and IoT sensor testing.
+Next.js
+JavaScript
+ Firebase
+--- PAGE 9 ---
+PROJECT 06
+// Role
+Cloud Engineer
+// Responsibilities
+// Technology Stack
+Iterary
+Set up and configured the cloud server environment, including application
+deployment and supporting services.
+Established an automated deployment workflow and configured web traffic routing
+for the production environment.
+MySQL
+ Docker
+Redis
+JavaScript
+ Google Cloud 
+React
+
+--- PAGE 10 ---
+PROJECT 07
+// Role
+Full-Stack Developer
+// Responsibilities
+// Technology Stack
+Next.js
+TypeScript
+ PostgreSQL
+ Supabase
+ Figma
+SMB Suvanna Dipa Web
+Developed a web application to support the digitalization and administration of
+sunday school programs.
+Built and maintained operational features to meet users (student, mentor, and
+admin) and organizational requirements.
+Integrated the application with an RFID-based attendance system to support
+attendance record management.
+--- PAGE 11 ---
+Thank YouThank You
+Let's connect and build something great together.
+// Scan for CV
+GitHub
+github.com/MarchRun
+LinkedIn
+linkedin.com/in/marchelkarunakwee
+Web
+chelnox-portfolio.vercel.app
+Email
+marchelk372@gmail.com

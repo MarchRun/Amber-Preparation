@@ -1,0 +1,49 @@
+--- PAGE 1 ---
+MARCHEL KARUNA KWEE 
+ +6289627056748 | marchelk372@gmail.com | linkedin.com/in/marchelkarunakwee | chelnox-portfolio.vercel.app 
+A fresh graduate in Informatics Engineering from Institut Teknologi Sumatera, with a strong interest in a Web Developer / Software 
+Engineer role. Experienced in building full-stack web applications across the SDLC with Next.js, SQL databases, and Figma-based UI 
+design, including project management. Eager to keep learning new technologies and grow within a collaborative team. 
+Work Experiences 
+Kementerian PPN/Bappenas RI - Jakarta Selatan Jun 2025 - Jul 2025 
+Backend Developer (Internship) 
+• Developed backend features for an internal government system with PHP, CodeIgniter, and MySQL. 
+• Collaborated in a four-member internship team using Agile development, with Jira and GitLab for project management. 
+• Coordinated with team members and cross-department stakeholders to align development with institutional standards and protocols. 
+Education Backgrounds 
+Institut Teknologi Sumatera  - Lampung Selatan Aug 2022 - Jul 2026 
+Bachelor of Informatics Engineering, 3.60/4.00 
+• Focused academic studies on Software Engineering and Information Systems. 
+• Applied IT solutions to support the requirements of village-based MSMEs and institutions. 
+• Contributed to the development of web applications and games as part of team projects. 
+Organizational Experiences 
+Keluarga Mahasiswa Buddhis (KMB) Dhirasena ITERA - Lampung Selatan Feb 2025 - Feb 2026 
+Secretary General 
+• Assisted in organizational development by improving structures and supporting strategic decision-making processes. 
+• Coordinated with organizational members and external stakeholders to ensure effective communication and collaboration. 
+Keluarga Mahasiswa Buddhis (KMB) Dhirasena ITERA - Lampung Selatan Feb 2024 - Feb 2025 
+Head of Communication Media Division 
+• Led the organization’s communication media management, including content planning, publication, and digital information strategies. 
+• Supervised documentation processes, creative content development, and promotional materials to support organizational activities. 
+Persaudaraan Pemuda Buddhis Bodhisattva (PPBB) - Bandar Lampung Aug 2021 - Aug 2025 
+Staff of Social Media Division 
+• Managed organizational event documentation and publications through social media platforms. 
+• Developed creative content concepts and created graphic designs, posters, and promotional materials for organizational activities. 
+• Led the organization’s social media management, including content planning, publication, and digital communication strategies. 
+Skills & Projects 
+• Soft Skills: Problem-Solving, Teamwork and Collaboration, Time Management, Adaptability 
+• Hard Skills (Frontend): HTML, CSS, TailwindCSS, React, Next.js 
+• Hard Skills (Backend): JavaScript, TypeScript, C++, Python, PHP, Node.js, MySQL, PostgreSQL, Firebase, Supabase 
+• Hard Skills (Others): Jira, Git, Docker, Canva, Figma, Aseprite, Ms Word, Ms Excel, Ms Power Point 
+• Languages: Indonesian (Native), English (Limited Working Proficiency) 
+• SMB Suvanna Dipa Web  (2025): Sunday school web system with IoT-based RFID attendance, built with Next.js, TypeScript, 
+PostgreSQL, and Supabase (Full-Stack Developer). 
+• Iterary  (2025): Library management PWA with React and MySQL, deployed on Google Cloud, Docker, and Redis (Cloud Engineer). 
+• Kibang Soil Tracker  (2025): IoT-based web monitoring system for village soil conditions (pH, temperature, moisture), built with 
+Next.js and Firebase (Project Manager). 
+• Simonika (2025): Internal ICT infrastructure monitoring system built with PHP, CodeIgniter, and MySQL (Backend Developer). 
+• Lebung Farm  (2024): MSME website for Lebung Sari Village, built with JavaScript, Bootstrap, and Figma (UI/UX Designer & 
+Frontend Developer). 
+• Nitro Itera Racing  (2024): 2D arcade racing game built with Python using OOP principles (Game Programmer). 
+• Legenda Tiga Raja  (2024): Top-down pixel art Action RPG set in Sumatra, with 2D assets and animations made in Aseprite and 
+Godot (Game Artist). 
